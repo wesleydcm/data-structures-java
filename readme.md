@@ -1,6 +1,6 @@
 # Personal Data Structures Study Repository
 
-Welcome to my Personal Data Structures Study Repository! This repository is a collection of my personal study notes and implementations of fundamental data structures using Java. While this repository was created for my own learning, I hope it can be a useful resource for anyone interested in these topics. Here, you will find comprehensive resources, code examples, and exercises focused on the following key data structures:
+Welcome to my personal Data Structures study repository! This repository is a collection of my personal study notes and implementations of fundamental data structures using Java. While this repository was created for my own learning, I hope it can be a useful resource for anyone interested in these topics. Here, you will find comprehensive resources, code examples, and exercises focused on the following key data structures:
 
 ## Linked Lists
 Linked lists are a fundamental data structure that consist of a sequence of elements, where each element points to the next one. This section covers:
