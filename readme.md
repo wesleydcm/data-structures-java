@@ -8,6 +8,12 @@ Linked lists are a fundamental data structure that consist of a sequence of elem
 - **Doubly Linked Lists**: Where each node points to both the next and the previous node.
 - **Circular Linked Lists**: Where the last node points back to the first node.
 
+| Advantages                                   | Disadvantages             |
+|----------------------------------------------|---------------------------|
+| Dynamic structures                           | Sequential access         |
+| Memory usage                                 | Implementation complexity |
+| Used in the construction of other structures |                           |
+
 ## Stacks
 Stacks are a collection of elements that follow the Last In, First Out (LIFO) principle. This section includes:
 - Basic operations: push, pop, and peek.
