@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04044f7b-7ae6-40ad-9709-0e4f83cbd07c" name="Changes" comment="practice data structure with LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/InvertStack.java" afterDir="false" />
+    <list default="true" id="04044f7b-7ae6-40ad-9709-0e4f83cbd07c" name="Changes" comment="practice stack data structure with LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/ServiceQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +56,7 @@
     "Application.InvertStack.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Queue.executor": "Run",
     "Application.Stack.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -114,7 +113,7 @@
       <workItem from="1717829605807" duration="2476000" />
       <workItem from="1717905028230" duration="3905000" />
       <workItem from="1718111254839" duration="13451000" />
-      <workItem from="1718161532402" duration="5232000" />
+      <workItem from="1718161532402" duration="8401000" />
     </task>
     <task id="LOCAL-00001" summary="practice data structure with arrays">
       <option name="closed" value="true" />
@@ -164,15 +163,47 @@
       <option name="project" value="LOCAL" />
       <updated>1718136383807</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="practice stack data structure with LinkedList">
+      <option name="closed" value="true" />
+      <created>1718167101107</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718167101107</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice data structure with arrays" />
     <MESSAGE value="practice data structure with LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice data structure with LinkedList" />
+    <MESSAGE value="practice stack data structure with LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice stack data structure with LinkedList" />
   </component>
 </project>
