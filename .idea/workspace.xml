@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04044f7b-7ae6-40ad-9709-0e4f83cbd07c" name="Changes" comment="practicing queue data structure with LinkedList">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Tree.java" afterDir="false" />
+    <list default="true" id="04044f7b-7ae6-40ad-9709-0e4f83cbd07c" name="Changes" comment="practicing tree data structure with LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructure/BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BST.executor": "Run",
     "Application.InvertStack.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.Main.executor": "Run",
@@ -115,7 +116,7 @@
       <workItem from="1717905028230" duration="3905000" />
       <workItem from="1718111254839" duration="13451000" />
       <workItem from="1718161532402" duration="9242000" />
-      <workItem from="1718186293597" duration="8343000" />
+      <workItem from="1718186293597" duration="16989000" />
     </task>
     <task id="LOCAL-00001" summary="practice data structure with arrays">
       <option name="closed" value="true" />
@@ -181,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718170267490</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="practicing tree data structure with LinkedList">
+      <option name="closed" value="true" />
+      <created>1718202984225</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202984225</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,6 +224,7 @@
     <MESSAGE value="practice data structure with LinkedList" />
     <MESSAGE value="practice stack data structure with LinkedList" />
     <MESSAGE value="practicing queue data structure with LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="practicing queue data structure with LinkedList" />
+    <MESSAGE value="practicing tree data structure with LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="practicing tree data structure with LinkedList" />
   </component>
 </project>
