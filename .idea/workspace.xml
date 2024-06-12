@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04044f7b-7ae6-40ad-9709-0e4f83cbd07c" name="Changes" comment="practice data structure with LinkedList">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/InvertStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.InvertStack.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Stack.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -108,7 +113,8 @@
       <workItem from="1717829272850" duration="172000" />
       <workItem from="1717829605807" duration="2476000" />
       <workItem from="1717905028230" duration="3905000" />
-      <workItem from="1718111254839" duration="13061000" />
+      <workItem from="1718111254839" duration="13451000" />
+      <workItem from="1718161532402" duration="5232000" />
     </task>
     <task id="LOCAL-00001" summary="practice data structure with arrays">
       <option name="closed" value="true" />
@@ -150,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718135664311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="practice data structure with LinkedList">
+      <option name="closed" value="true" />
+      <created>1718136383807</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718136383807</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
